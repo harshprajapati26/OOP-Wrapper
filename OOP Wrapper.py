@@ -192,7 +192,7 @@ def main():
                 print("\nInvalid choice.")
 
         elif choice == "6":
-            print("\nExiting the system.")
+            print("\nPROGRAM END.")
             print("Goodbye!")
             break
 
