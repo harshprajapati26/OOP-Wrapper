@@ -1,5 +1,10 @@
 
-# OOP Wrapper - Employee Management System
+# ==========================================================
+# PROJECT: OOP WRAPER
+# EMPLOYE MANAGEMENT SYSTEM
+# BY HARSH PRAJAPATI
+# ==========================================================
+
 
 class Person:
     def __init__(self, name, age):
