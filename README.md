@@ -86,8 +86,7 @@ Choose an operation:
 OOP-Wrapper/
 ├── main.py          # Main program and menu
 ├── README.md        # Project documentation
-└── .gitignore       # Optional Git ignore rules
-```
+
 
 Adjust the filenames above to match your repository.
 
@@ -104,7 +103,7 @@ Adjust the filenames above to match your repository.
 
 ### ▶️ Video Link
 
-
+**https://drive.google.com/file/d/15c_JYeGu3O-4qtvPTdiQmuYXOCbQjvnS/view?usp=drive_link**
 
 ## 🤝 Contributing
 
